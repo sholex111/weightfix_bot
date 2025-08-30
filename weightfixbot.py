@@ -1,3 +1,4 @@
+#weightfixbot.py
 
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
@@ -212,7 +213,7 @@ def faq_bot():
 # ==== Run Bot ====
 if __name__ == "__main__":
     faq_bot()
-
+8
 
 
 
