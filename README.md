@@ -28,7 +28,7 @@ An **FAQ chatbot for a weight loss program**, enhanced with NLP.
 
 ---
 
-### 3. `weightfixretrievalbot_.py`
+### 3. `weightfixretrievalbot.py`
 An **advanced retrieval chatbot** using **DistilBERT**.  
 - Understands semantic meaning of user questions.  
 - Reads FAQs from a text file for easy editing.  
